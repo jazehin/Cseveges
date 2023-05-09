@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cseveges", "Cseveges\Cseveges.csproj", "{77542CCC-60D7-4316-B652-A9C53541EC89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsevegesGUI", "CsevegesGUI\CsevegesGUI.csproj", "{323BF3C8-F424-4924-9A27-0BDC01252AA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77542CCC-60D7-4316-B652-A9C53541EC89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77542CCC-60D7-4316-B652-A9C53541EC89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77542CCC-60D7-4316-B652-A9C53541EC89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77542CCC-60D7-4316-B652-A9C53541EC89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{323BF3C8-F424-4924-9A27-0BDC01252AA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{323BF3C8-F424-4924-9A27-0BDC01252AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{323BF3C8-F424-4924-9A27-0BDC01252AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{323BF3C8-F424-4924-9A27-0BDC01252AA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5A32723-312A-468A-BC1E-3CBA60E55C71}
+	EndGlobalSection
+EndGlobal
